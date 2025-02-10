@@ -31,3 +31,7 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akhilrao045/akhilrao045/output/dist/snake.svg" alt="Contribution Snake Animation">
+</p>
