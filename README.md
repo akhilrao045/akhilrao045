@@ -29,11 +29,12 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/akhil045) 
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akhilrao045/akhilrao045/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
-</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
+</p>
+
 
