@@ -31,8 +31,9 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github.com/akhilrao045/akhilrao045/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
+  <img src="https://raw.githubusercontent.com/akhilrao045/akhilrao045/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
