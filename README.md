@@ -1,3 +1,6 @@
+## Hi there, I'm Akhil Rao 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Full+Stack+Developer;Passionate+about+MERN+and+Spring+Boot;Always+learning+new+things!)](https://git.io/typing-svg)
+
 # 💫 About Me:
 
 🔭 I’m a **Full-Stack Developer** on a journey to build impactful projects!  
