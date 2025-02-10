@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m fullstack developer<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning mern stack and springboot<br>💬 Ask me about<br>⚡ Fun fact
+
+🔭 I’m a **Full-Stack Developer** on a journey to build impactful projects!  
+👯 Always open to **collaborate** on exciting web applications  
+🤝 Looking for **mentorship & guidance** in advanced backend development  
+🌱 Currently diving deep into **MERN Stack & Spring Boot**  
+💬 Ask me about **Web Development, Java, Tailwind CSS, and APIs**  
+⚡ Fun Fact: I can spend hours debugging a missing semicolon 😆  
 
 
 ## 🌐 Socials:
