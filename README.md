@@ -1,5 +1,9 @@
 ## Hi there, I'm Akhil Rao 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Full+Stack+Developer;Passionate+about+MERN+and+Spring+Boot;Always+learning+new+things!)](https://git.io/typing-svg)
+## 🏆 Profile Visitors  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akhilrao045&label=Profile%20Views&color=0e75b6&style=flat" alt="akhilrao045" />
+</p>
 
 # 💫 About Me:
 
