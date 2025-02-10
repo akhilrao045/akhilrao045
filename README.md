@@ -42,17 +42,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akhilrao045&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilrao045&theme=radical" />
-</p>
 
-
-## 🚀 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilrao045&layout=compact&theme=radical" />
-</p>
 
 
   ## 💰 You can help me by Donating
