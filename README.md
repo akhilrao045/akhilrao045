@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akhilrao045&label=Profile%20Views&color=0e75b6&style=flat" alt="akhilrao045" />
 </p>
+- 👨‍💻 All of my projects are available at []()
 
+- 📫 How to reach me **akhilakhilsharma2000@gmail.com**
 # 💫 About Me:
 
 🔭 I’m a **Full-Stack Developer** on a journey to build impactful projects!  
